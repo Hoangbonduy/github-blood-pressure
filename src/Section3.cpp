@@ -4,5 +4,7 @@ void Section3() {
 
     cout << "Phien ban : 0.0.01" << endl;
     
-    cout << "Ngay tao dau tien : 12/01/2021";
+    cout << "Ngay tao dau tien : 12/01/2021" << endl;
+
+    cout << "Phan mem dung de ghi chu huyet ap" << endl;
 }
